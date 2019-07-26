@@ -5,3 +5,4 @@ authors = ["sean-sn <sean@supranational.net>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.6.5"
